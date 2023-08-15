@@ -1,3 +1,5 @@
+# SNHU CS-230: Operating Platforms
+
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
 
 	This software design template was created for a client, “The Gaming Room”, who wanted a web-based game application created for them. The goal of the game is for teams to guess what an image being “drawn” to the screen is. The image being drawn is slowly rendered to the screen over a 30-second period and is randomly  pulled from a library of 200 images. The client required that only one instance of the game be running in memory at once and that the game and team names are unique in order to not use a name already in use. The game has the ability to have one or more teams playing and the teams are able to have many players assigned to them. The client also required that the game is able to run across multiple platforms, such as Mac, Windows, and Linux and able to communicate to each other as a game is running.  
